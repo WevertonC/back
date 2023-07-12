@@ -1,7 +1,3 @@
-TimeZone:
-  pacific/midway:
-    olson:  Pacific/Midway
-    text:   (GMT-11:00) Midway Island, Samoa
 name: Build
 on:
   push:
